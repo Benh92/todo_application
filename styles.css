@@ -1,0 +1,16 @@
+.topMarg {
+    margin-top: 5%;
+}
+
+hr {
+    color: #37b6ff;
+    background-color: #37b6ff;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
