@@ -1,3 +1,7 @@
+body {
+    padding: 2% 2% 2% 2%
+}
+
 .topMarg {
     margin-top: 5%;
 }
@@ -21,4 +25,10 @@ hr {
 
 .margbot2 {
     margin-bottom: 4%;
+}
+
+.divhover:hover {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #37b6ff;
 }
