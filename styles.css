@@ -14,3 +14,11 @@ hr {
 .left {
     text-align: left;
 }
+
+.margbot {
+    margin-bottom: 2%;
+}
+
+.margbot2 {
+    margin-bottom: 4%;
+}
